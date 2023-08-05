@@ -1,0 +1,11 @@
+.Notification {
+    font-size: 30px;
+    font-weight: 600;
+    color: #ffff00;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    list-style: none; 
+    align-items: center;
+    justify-content: center;
+}

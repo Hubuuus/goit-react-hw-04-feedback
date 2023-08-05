@@ -1,0 +1,39 @@
+@import-normalize;
+
+
+/* 
+@mixin main-font {
+  font-family: "Roboto", sans-serif;
+}
+
+@mixin secondary-font {
+  font-family: "Lato", sans-serif;
+}
+
+@mixin third-font {
+  font-family: "Poppins", sans-serif;
+}
+
+@mixin hero_btn($col1, $col2, $pad1, $pad2, $b-radius) {
+  display: inline-block;
+  padding: $pad1 $pad2;
+  background-color: $col1;
+  color: $col2;
+  border-radius: $b-radius;
+  text-transform: uppercase;
+
+  &:hover {
+    background-color: darken($color: $col1, $amount: 5);
+  }
+}
+
+@mixin upperBold {
+  text-transform: uppercase;
+  font-weight: bold;
+} */
+
+body {
+ font-family: "Roboto", sans-serif;
+  color: #0c0c0c;
+  background-color: #ffffff;
+}

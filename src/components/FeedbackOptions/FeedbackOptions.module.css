@@ -1,0 +1,29 @@
+.ListBtn {
+display: flex;
+flex-direction: row;
+}
+
+.Btn {
+  position: relative;
+ 
+  height: 40px;
+  width: 220px;
+  outline: none;
+  border: solid 1px #ffff00;
+  border-radius: 30px;
+  color: #3a3a14;
+  font-weight: 600;
+  font-size: 15px;
+  text-transform: uppercase;
+  background-color: #ffff00;
+  margin-top: 2.5px;
+  margin-left: 30px;
+  margin-right: 30px;
+  transition: 200ms;
+  &:hover,&:focus {
+    background-color: #75792a;
+    color: #ffff00;
+    font-weight: 700;
+  font-size: 20px;
+  }
+}

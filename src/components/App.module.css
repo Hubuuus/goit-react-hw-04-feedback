@@ -1,0 +1,12 @@
+.app {
+    width: 90%;
+    margin: 0 auto;
+    transform: translateY(50px);
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #8f9440;
+    
+} 
